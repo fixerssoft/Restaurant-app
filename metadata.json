@@ -1,0 +1,6 @@
+{
+  "name": "Baba Ji Restaurant",
+  "description": "Authentic Pakistani, BBQ, Fast Food, and Indian food ordering & delivery in Dubai with live tracking and takeaway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
